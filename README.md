@@ -1,5 +1,4 @@
-## 30-days-Leetcode-Challenge
-   Lets do this
+
 # Introduction
 ## Welcome to the 30-Day LeetCoding Challenge!
 Check out the announcement if you're not sure what this is all about. Also, don't forget to add the event to your calendar!
@@ -15,3 +14,4 @@ If you've previously solved the problem before, you must resubmit for it to be c
 If you miss a problem, it'll still be here for you, however, you won't get any LeetCoins for it, and you'll no longer be eligible for the prize draw.
 
 Good luck, and happy coding! We wish you all the best with your interview preparation.
+## Lets Do this
